@@ -6,9 +6,9 @@ Improves BlueSky image quality by replacing image formats.
 - When clicking an image, JPEG images are replaced with lossless PNG images.
 
 ## Installation
-1. Install one of these userscript managers on your browser. If not sure, choose Violentmonkey, as it's open source and multiplatform.
+1. Install one of these userscript managers on your browser. If not sure, choose Violentmonkey, as it's both open source and multiplatform.
 - [Violentmonkey](https://violentmonkey.github.io/get-it/)
 - [Tampermonkey](https://www.tampermonkey.net/)
-- [GreaseMonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/)
+- [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/)
 
 2. Click [here](https://github.com/Duskdyr/High-Quality-BSky/raw/refs/heads/main/high_quality_bsky.user.js) to install this script.
