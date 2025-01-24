@@ -13,4 +13,4 @@ High resolution AVIF images are higher quality and of similar size as JEPG thumb
 - [Tampermonkey](https://www.tampermonkey.net/)
 - [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/)
 
-2. Click [here](https://github.com/Duskdyr/High-Quality-BSky/raw/refs/heads/main/high_quality_bsky.user.js) to install this script.
+2. Click [here](https://github.com/Duskdyr/High-Quality-BSky/raw/refs/heads/main/high_quality_bsky.user.js) to install this script. You can also find this script in [Greasy Fork](https://greasyfork.org/en/scripts/524705-high-quality-bsky).
