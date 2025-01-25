@@ -12,6 +12,4 @@ Collection of userscripts I wrote for my needs, mostly focused on improving imag
 - If a certain image was originally uploaded in JPEG or WebP, then the PNG you get will be as lossy as its origin, but that's still *way* better than the highly compressed JPEG BlueSky and Twitter serve by default.
 - Images that were uploaded as PNG will actually be lossless but maybe not at their original resolution, as BlueSky and Twitter will resize anything you throw at them.
 - In BlueSky, full-sized AVIF images are higher quality and of similar size as JEPG thumbnails, so switching to that format while browsing should give you a smooth and higher quality experience without noticeably sacrificing bandwidth.
-
-## Installation
-1. Before installing any of these scripts, you need a userscript manager on your browser. I recommend [Violentmonkey](https://violentmonkey.github.io/get-it/), as it's both open source and multiplatform, but others like [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) or [Tampermonkey](https://www.tampermonkey.net/) should work just fine.
+- Before installing any of these scripts, you need a userscript manager on your browser. I recommend [Violentmonkey](https://violentmonkey.github.io/get-it/), as it's both open source and multiplatform, but others like [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) or [Tampermonkey](https://www.tampermonkey.net/) should work just fine.
