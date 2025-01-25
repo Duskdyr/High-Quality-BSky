@@ -7,8 +7,6 @@
 // @namespace    dskdr
 // @license      MIT
 // @version      1.0
-// @downloadURL  https://update.greasyfork.org/scripts/524794/HD%20BlueSky.user.js
-// @updateURL    https://update.greasyfork.org/scripts/524794/HD%20BlueSky.meta.js
 // ==/UserScript==
 
 (function() {
