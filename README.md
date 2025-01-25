@@ -1,4 +1,4 @@
-# High Quality BSky
+# Duskdyr's Userscripts Collection
 Improves BlueSky image quality by replacing image formats.
 
 ## What it does
