@@ -1,7 +1,7 @@
 # Duskdyr's Userscripts Collection
 Collection of userscripts I wrote for my needs, mostly focused on improving image quality on social media sites like BlueSky or Twitter.
 
-## HD BlueSky [[install]](https://github.com/Duskdyr/userscripts)
+## HD BlueSky [[install]](https://greasyfork.org/scripts/524794)
 - While browsing the site, JPEG thumbnails are replaced with full-sized AVIF images.
 - When clicking an image, JPEGs are replaced with lossless PNGs.
 
