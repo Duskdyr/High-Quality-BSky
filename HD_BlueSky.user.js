@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         High Quality BSky
+// @name         HD BlueSky
 // @author       Duskdyr
 // @description  Improves BlueSky image quality by replacing image formats. When browsing the site, JPEG thumbnails are replaced with full-sized AVIF images. When clicking an image, JPEG images are replaced with lossless PNG images.
 // @match        *://*.bsky.app/*
@@ -7,8 +7,8 @@
 // @namespace    dskdr
 // @license      MIT
 // @version      0.95
-// @downloadURL  https://update.greasyfork.org/scripts/524794/High%20Quality%20BSky.user.js
-// @updateURL    https://update.greasyfork.org/scripts/524794/High%20Quality%20BSky.meta.js
+// @downloadURL  https://update.greasyfork.org/scripts/524794/HD%20BlueSky.user.js
+// @updateURL    https://update.greasyfork.org/scripts/524794/HD%20BlueSky.meta.js
 // ==/UserScript==
 
 (function() {
