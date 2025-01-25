@@ -14,5 +14,5 @@ Full-sized AVIF images are higher quality and of similar size as JEPG thumbnails
 - [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/)
 
 2. Go to the Greasy Fork page of any of my scripts and install them from there.
-- [HD BlueSky](https://greasyfork.org/en/scripts/524794-hd)
+- [HD BlueSky](https://greasyfork.org/en/scripts/524794)
 - HD Twitter (soon)
