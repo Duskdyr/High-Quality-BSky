@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         HD Twitter
 // @author       Duskdyr
-// @description  Improves Twitter (X) image quality by replacing image formats. When clicking an image, JPEG images are replaced with lossless PNG images.
+// @description  Improves Twitter's (X) image quality by replacing image formats. When clicking an image, JPEGs are replaced with lossless PNGs.
 // @match        *://*.x.com/*
 // @grant        none
 // @namespace    dskdr
