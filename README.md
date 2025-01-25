@@ -9,7 +9,7 @@ Collection of userscripts I wrote for my needs, mostly focused on improving imag
 - When clicking an image, JPEGs are replaced with lossless PNGs.
 
 ## Considerations
-- If a certain image was originally uploaded in JPEG or WebP, then the PNG you get will be as lossy as its origin, but that's still *way* better than the highly compressed JPEG BlueSky serves by default.
+- If a certain image was originally uploaded in JPEG or WebP, then the PNG you get will be as lossy as its origin, but that's still *way* better than the highly compressed JPEG BlueSky and Twitter serve by default.
 - Images that were uploaded as PNG will actually be lossless but maybe not at their original resolution, as BlueSky and Twitter will resize anything you throw at them.
 - In BlueSky, full-sized AVIF images are higher quality and of similar size as JEPG thumbnails, so switching to that format while browsing should give you a smooth and higher quality experience without noticeably sacrificing bandwidth.
 
