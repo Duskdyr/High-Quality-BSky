@@ -7,6 +7,8 @@
 // @namespace    dskdr
 // @license      MIT
 // @version      1.0
+// @downloadURL  https://update.greasyfork.org/scripts/524794/High%20Quality%20BSky.user.js
+// @updateURL    https://update.greasyfork.org/scripts/524794/High%20Quality%20BSky.meta.js
 // ==/UserScript==
 
 (function() {
