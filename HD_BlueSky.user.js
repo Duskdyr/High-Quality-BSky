@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         HD BlueSky
 // @author       Duskdyr
-// @description  Improves BlueSky image quality by replacing image formats. When clicking an image, JPEGs are replaced with lossless PNGs. While browsing the site, JPEG thumbnails are replaced with full-sized AVIF images.
+// @description  Improves BlueSky's image quality by replacing image formats. When clicking an image, JPEGs are replaced with lossless PNGs. While browsing the site, JPEG thumbnails are replaced with full-sized AVIF images.
 // @match        *://*.bsky.app/*
 // @grant        none
 // @namespace    dskdr
