@@ -1,7 +1,7 @@
 # Duskdyr's Userscripts Collection
-Improves BlueSky image quality by replacing image formats.
+Collection of userscripts I wrote for my needs, mostly focused on improving image quality on social media sites like BlueSky or Twitter.
 
-## What it does
+## HD BlueSky
 - While browsing the site, JPEG thumbnails are replaced with full-sized AVIF images.
 - When clicking an image, JPEG images are replaced with lossless PNG images.
 
@@ -14,5 +14,5 @@ Full-sized AVIF images are higher quality and of similar size as JEPG thumbnails
 - [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/)
 
 2. Go to Greasy Fork page of any of my scripts and install them from there.
-- HD [BlueSky](https://greasyfork.org/en/scripts/524794-hd)
+- [HD BlueSky](https://greasyfork.org/en/scripts/524794-hd)
 - HD Twitter (soon)
