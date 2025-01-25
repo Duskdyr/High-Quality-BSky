@@ -6,7 +6,7 @@
 // @grant        none
 // @namespace    dskdr
 // @license      MIT
-// @version      0.9
+// @version      1.0
 // ==/UserScript==
 
 (function() {
