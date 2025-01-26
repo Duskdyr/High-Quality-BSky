@@ -3,6 +3,7 @@
 // @author       Duskdyr
 // @description  Improves Twitter's (X) image quality by replacing image formats. When clicking an image, JPEGs are replaced with lossless PNGs.
 // @match        *://*.x.com/*
+// @match        *://*.twitter.com/*
 // @grant        none
 // @namespace    dskdr
 // @license      MIT
